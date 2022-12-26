@@ -1,2 +1,2 @@
 # Accordion
- JavaScript accordion
+HTML, CSS, JavaScript - Accordion
